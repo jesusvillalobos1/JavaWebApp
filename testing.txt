@@ -1,0 +1,2 @@
+removing line to see
+adding lines to see in diff
